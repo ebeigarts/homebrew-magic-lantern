@@ -6,7 +6,7 @@ command line tools.
 ## Installation
 
 ```bash
-brew tap beigaedg/homebrew-magic-lantern
+brew tap ebeigarts/homebrew-magic-lantern
 ```
 
 ## Usage
