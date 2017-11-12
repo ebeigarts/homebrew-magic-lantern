@@ -12,7 +12,7 @@ class MagicLanternFormula < Formula
 
       resource "docutils" do
         url "https://pypi.python.org/packages/source/d/docutils/docutils-0.12.tar.gz"
-        sha1 "002450621b33c5690060345b0aac25bc2426d675"
+        sha256 "c7db717810ab6965f66c8cf0398a98c9d8df982da39b4cd7f162911eb89596fa"
       end
     end
   end
